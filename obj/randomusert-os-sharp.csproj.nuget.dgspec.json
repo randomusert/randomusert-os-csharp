@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Eetu\\Desktop\\randomusert-os-sharp\\randomusert-os-sharp\\randomusert-os-sharp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Eetu\\Desktop\\randomusert-os-sharp\\randomusert-os-sharp\\randomusert-os-sharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Eetu\\Desktop\\randomusert-os-sharp\\randomusert-os-sharp\\randomusert-os-sharp.csproj",
+        "projectName": "randomusert-os-sharp",
+        "projectPath": "C:\\Users\\Eetu\\Desktop\\randomusert-os-sharp\\randomusert-os-sharp\\randomusert-os-sharp.csproj",
+        "packagesPath": "C:\\Users\\Eetu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Eetu\\Desktop\\randomusert-os-sharp\\randomusert-os-sharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Eetu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\Eetu\\AppData\\Roaming\\Cosmos User Kit 2019\\packages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Cosmos.Build": {
+              "target": "Package",
+              "version": "[0.0.0-*, )",
+              "noWarn": [
+                "NU1604"
+              ]
+            },
+            "Cosmos.Debug.Kernel": {
+              "target": "Package",
+              "version": "[0.0.0-*, )",
+              "noWarn": [
+                "NU1604"
+              ]
+            },
+            "Cosmos.System2": {
+              "target": "Package",
+              "version": "[0.0.0-*, )",
+              "noWarn": [
+                "NU1604"
+              ]
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

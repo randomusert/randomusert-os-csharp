@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "U5WFmYAH+2rsq7FNZVy0A7iLXu2DFFJLuhplRiJdl3K8Xgkdlwvv93GrO7o8dmInMGH2a4izootCZAsslUlxVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eetu\\Desktop\\randomusert-os-sharp\\randomusert-os-sharp\\randomusert-os-sharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eetu\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20220209054635\\cosmos.build.0.1.0-localbuild20220209054635.nupkg.sha512",
+    "C:\\Users\\Eetu\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20220209054647\\cosmos.common.0.1.0-localbuild20220209054647.nupkg.sha512",
+    "C:\\Users\\Eetu\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20220209054647\\cosmos.core.0.1.0-localbuild20220209054647.nupkg.sha512",
+    "C:\\Users\\Eetu\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20220209054647\\cosmos.debug.kernel.0.1.0-localbuild20220209054647.nupkg.sha512",
+    "C:\\Users\\Eetu\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20220209054647\\cosmos.hal2.0.1.0-localbuild20220209054647.nupkg.sha512",
+    "C:\\Users\\Eetu\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20220209054647\\cosmos.system2.0.1.0-localbuild20220209054647.nupkg.sha512",
+    "C:\\Users\\Eetu\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20220209054647\\il2cpu.api.0.1.0-localbuild20220209054647.nupkg.sha512"
+  ],
+  "logs": []
+}

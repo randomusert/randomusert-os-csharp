@@ -1,0 +1,12 @@
+C:\Users\Eetu\Desktop\randomusert-os-sharp\randomusert-os-sharp\bin\Debug\net6.0\randomusert-os-sharp.deps.json
+C:\Users\Eetu\Desktop\randomusert-os-sharp\randomusert-os-sharp\bin\Debug\net6.0\randomusert-os-sharp.dll
+C:\Users\Eetu\Desktop\randomusert-os-sharp\randomusert-os-sharp\bin\Debug\net6.0\randomusert-os-sharp.pdb
+C:\Users\Eetu\Desktop\randomusert-os-sharp\randomusert-os-sharp\obj\Debug\net6.0\randomusert-os-sharp.csproj.AssemblyReference.cache
+C:\Users\Eetu\Desktop\randomusert-os-sharp\randomusert-os-sharp\obj\Debug\net6.0\randomusert-os-sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eetu\Desktop\randomusert-os-sharp\randomusert-os-sharp\obj\Debug\net6.0\randomusert-os-sharp.AssemblyInfoInputs.cache
+C:\Users\Eetu\Desktop\randomusert-os-sharp\randomusert-os-sharp\obj\Debug\net6.0\randomusert-os-sharp.AssemblyInfo.cs
+C:\Users\Eetu\Desktop\randomusert-os-sharp\randomusert-os-sharp\obj\Debug\net6.0\randomusert-os-sharp.csproj.CoreCompileInputs.cache
+C:\Users\Eetu\Desktop\randomusert-os-sharp\randomusert-os-sharp\obj\Debug\net6.0\randomusert-os-sharp.dll
+C:\Users\Eetu\Desktop\randomusert-os-sharp\randomusert-os-sharp\obj\Debug\net6.0\refint\randomusert-os-sharp.dll
+C:\Users\Eetu\Desktop\randomusert-os-sharp\randomusert-os-sharp\obj\Debug\net6.0\randomusert-os-sharp.pdb
+C:\Users\Eetu\Desktop\randomusert-os-sharp\randomusert-os-sharp\obj\Debug\net6.0\ref\randomusert-os-sharp.dll
